@@ -270,10 +270,18 @@ function initMap() {
   var markers = [];
   var dataKeys = Object.keys(DATA);
 
+  var image = {
+    url: './assets/lone-star-logo.png',
+    scaledSize: new google.maps.Size(40, 40)
+  };
+
+  console.log(image)
+
   for (var i = 0; i < dataKeys.length; i++) {
     var marker = new google.maps.Marker({
       position: new google.maps.LatLng(DATA[dataKeys[i]].Lat, DATA[dataKeys[i]].Lng),
-      map: map
+      map: map,
+      icon: image
     });
 
     markers.push(marker);
