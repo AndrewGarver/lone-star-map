@@ -5,7 +5,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10001,
-    "Phone": "(212) 243-8328"
+    "Phone": "(212) 243-8328",
+    "Lat": 40.7476699,
+    "Lng": -73.9975237
   },
   "2": {
     "Store": "UPRIGHT CITIZENS BRIGADE",
@@ -13,7 +15,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10001,
-    "Phone": "(212) 366-9176"
+    "Phone": "(212) 366-9176",
+    "Lat": 40.7476699,
+    "Lng": -73.9975237
   },
   "3": {
     "Store": "DUANE READE - 14138",
@@ -21,7 +25,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10001,
-    "Phone": "(212) 239-0167"
+    "Phone": "(212) 239-0167",
+    "Lat": 40.7474694,
+    "Lng": -73.9927921
   },
   "4": {
     "Store": "HUDSON FOOD MARKET CORP",
@@ -29,7 +35,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10001,
-    "Phone": "(212) 967-9077"
+    "Phone": "(212) 967-9077",
+    "Lat": 40.7225358,
+    "Lng": -74.0082959
   },
   "5": {
     "Store": "CHELSEA DELI",
@@ -37,7 +45,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10001,
-    "Phone": "(212) 244-0500"
+    "Phone": "(212) 244-0500",
+    "Lat": 40.750566,
+    "Lng": -74.0024789
   },
   "6": {
     "Store": "HIGHLINE DELI II",
@@ -45,7 +55,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10002,
-    "Phone": "(212) 226-3811"
+    "Phone": "(212) 226-3811",
+    "Lat": 40.7154579,
+    "Lng": -73.9930816
   },
   "7": {
     "Store": "169 BAR",
@@ -53,7 +65,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10002,
-    "Phone": "(212) 677-5486"
+    "Phone": "(212) 677-5486",
+    "Lat": 40.713838,
+    "Lng": -73.98975999999999
   },
   "8": {
     "Store": "HOME SWEET HOME",
@@ -61,7 +75,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10002,
-    "Phone": "(212) 226-5708"
+    "Phone": "(212) 226-5708",
+    "Lat": 40.7195084,
+    "Lng": -73.993516
   },
   "9": {
     "Store": "GRAND ADVANCE TRADING",
@@ -69,7 +85,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10002,
-    "Phone": "(212) 219-8883"
+    "Phone": "(212) 219-8883",
+    "Lat": 40.7180518,
+    "Lng": -73.992847
   },
   "10": {
     "Store": "NEW BEER",
@@ -77,7 +95,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10002,
-    "Phone": "(212) 260-4360"
+    "Phone": "(212) 260-4360",
+    "Lat": 40.7207931,
+    "Lng": -73.9927952
   },
   "11": {
     "Store": "SAN LOCO",
@@ -85,7 +105,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10002,
-    "Phone": "(212) 253-7580"
+    "Phone": "(212) 253-7580",
+    "Lat": 40.7210763,
+    "Lng": -73.98761499999999
   },
   "12": {
     "Store": "EASTWAY DELI",
@@ -93,7 +115,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10003,
-    "Phone": "(212) 260-3859"
+    "Phone": "(212) 260-3859",
+    "Lat": 40.7347696,
+    "Lng": -73.9861068
   },
   "13": {
     "Store": "JAVELINA",
@@ -101,7 +125,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10003,
-    "Phone": "(212) 539-0202"
+    "Phone": "(212) 539-0202",
+    "Lat": 40.7368563,
+    "Lng": -73.98740819999999
   },
   "14": {
     "Store": "OLD TOWN",
@@ -109,7 +135,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10003,
-    "Phone": "(212) 529-6732"
+    "Phone": "(212) 529-6732",
+    "Lat": 40.737609,
+    "Lng": -73.9891621
   },
   "15": {
     "Store": "THE PATRIOT SALOON",
@@ -117,7 +145,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10007,
-    "Phone": "(212) 748-1162"
+    "Phone": "(212) 748-1162",
+    "Lat": 40.7148804,
+    "Lng": -74.0082844
   },
   "16": {
     "Store": "KEY FOOD STORE - 566",
@@ -125,7 +155,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10009,
-    "Phone": "(212) 477-9063"
+    "Phone": "(212) 477-9063",
+    "Lat": 40.7239185,
+    "Lng": -73.9846206
   },
   "17": {
     "Store": "25 B GROUP REST AVE LLC",
@@ -133,7 +165,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10009,
-    "Phone": "(718) 930-9827"
+    "Phone": "(718) 930-9827",
+    "Lat": 40.7606467,
+    "Lng": -73.9643128
   },
   "18": {
     "Store": "BOXCAR LOUNGE",
@@ -141,7 +175,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10009,
-    "Phone": "(212) 473-2830"
+    "Phone": "(212) 473-2830",
+    "Lat": 40.727255,
+    "Lng": -73.9798419
   },
   "19": {
     "Store": "THE HORSEBOX",
@@ -149,7 +185,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10009,
-    "Phone": "(646) 370-1791"
+    "Phone": "(646) 370-1791",
+    "Lat": 40.7299689,
+    "Lng": -73.9804075
   },
   "20": {
     "Store": "DOUBLE WIDE BAR",
@@ -157,7 +195,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10009,
-    "Phone": "(212) 767-9995"
+    "Phone": "(212) 767-9995",
+    "Lat": 40.7290525,
+    "Lng": -73.9809202
   },
   "21": {
     "Store": "ASSOCIATED SUPERMARKET",
@@ -165,7 +205,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10009,
-    "Phone": "(212) 254-1509"
+    "Phone": "(212) 254-1509",
+    "Lat": 40.7310143,
+    "Lng": -73.9808929
   },
   "22": {
     "Store": "GRISTEDES - 518",
@@ -173,7 +215,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10010,
-    "Phone": "(212) 725-9500"
+    "Phone": "(212) 725-9500",
+    "Lat": 40.7354528,
+    "Lng": -73.97995569999999
   },
   "23": {
     "Store": "HILL COUNTRY",
@@ -181,7 +225,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10010,
-    "Phone": "(212) 255-4544"
+    "Phone": "(212) 255-4544",
+    "Lat": 40.74421350000001,
+    "Lng": -73.9904452
   },
   "24": {
     "Store": "HOG PIT N Y C",
@@ -189,7 +235,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10010,
-    "Phone": "(212) 213-4871"
+    "Phone": "(212) 213-4871",
+    "Lat": 40.7445724,
+    "Lng": -73.99045459999999
   },
   "25": {
     "Store": "GRISTEDES - 597",
@@ -197,7 +245,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10011,
-    "Phone": "(646) 486-7310"
+    "Phone": "(646) 486-7310",
+    "Lat": 40.7442957,
+    "Lng": -73.9994502
   },
   "26": {
     "Store": "ONE STAR",
@@ -205,7 +255,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10011,
-    "Phone": "(212) 777-0100"
+    "Phone": "(212) 777-0100",
+    "Lat": 40.7445613,
+    "Lng": -73.9941257
   },
   "27": {
     "Store": "GRISTEDES - 545",
@@ -213,7 +265,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10011,
-    "Phone": "(212) 242-9801"
+    "Phone": "(212) 242-9801",
+    "Lat": 40.7470808,
+    "Lng": -74.0011598
   },
   "28": {
     "Store": "ASSOCIATED SUPERMARKET - 746",
@@ -221,7 +275,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10012,
-    "Phone": "(212) 358-9597"
+    "Phone": "(212) 358-9597",
+    "Lat": 40.7276066,
+    "Lng": -73.9987806
   },
   "29": {
     "Store": "PECULIAR PUB",
@@ -229,7 +285,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10012,
-    "Phone": "(212) 353-1327"
+    "Phone": "(212) 353-1327",
+    "Lat": 40.7283483,
+    "Lng": -73.9990897
   },
   "30": {
     "Store": "GRISTEDES - 508",
@@ -237,7 +295,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10012,
-    "Phone": "(212) 777-9498"
+    "Phone": "(212) 777-9498",
+    "Lat": 40.72822619999999,
+    "Lng": -73.9952965
   },
   "31": {
     "Store": "WEATHERUP TRIBECA",
@@ -245,7 +305,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10013,
-    "Phone": "(917) 459-2674"
+    "Phone": "(917) 459-2674",
+    "Lat": 40.7169426,
+    "Lng": -74.00875309999999
   },
   "32": {
     "Store": "SOUTHS",
@@ -253,7 +315,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10013,
-    "Phone": "(212) 219-0640"
+    "Phone": "(212) 219-0640",
+    "Lat": 40.7184229,
+    "Lng": -74.0048596
   },
   "33": {
     "Store": "TRIBECA TAVERN",
@@ -261,7 +325,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10013,
-    "Phone": "(212) 941-7671"
+    "Phone": "(212) 941-7671",
+    "Lat": 40.7196252,
+    "Lng": -74.00538
   },
   "34": {
     "Store": "ANDYS DELI",
@@ -269,7 +335,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10014,
-    "Phone": "(212) 989-0648"
+    "Phone": "(212) 989-0648",
+    "Lat": 40.7333784,
+    "Lng": -74.0032466
   },
   "35": {
     "Store": "GRISTEDES - 543",
@@ -277,7 +345,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10014,
-    "Phone": "(212) 229-3893"
+    "Phone": "(212) 229-3893",
+    "Lat": 40.7328654,
+    "Lng": -74.0026261
   },
   "36": {
     "Store": "THE COWGIRL HALL OF FAME",
@@ -285,7 +355,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10014,
-    "Phone": "(212) 633-1133"
+    "Phone": "(212) 633-1133",
+    "Lat": 40.733932,
+    "Lng": -74.00660599999999
   },
   "37": {
     "Store": "BLUE SMOKE & JAZZ STANDARD",
@@ -293,7 +365,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10016,
-    "Phone": "(212) 447-7733"
+    "Phone": "(212) 447-7733",
+    "Lat": 40.74217429999999,
+    "Lng": -73.9838006
   },
   "38": {
     "Store": "GEM SALOON",
@@ -301,7 +375,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10016,
-    "Phone": "(917) 318-5222"
+    "Phone": "(917) 318-5222",
+    "Lat": 40.7413316,
+    "Lng": -73.9809796
   },
   "39": {
     "Store": "RIVE GAUCHO",
@@ -309,7 +385,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10016,
-    "Phone": "(212) 949-5400"
+    "Phone": "(212) 949-5400",
+    "Lat": 40.7480839,
+    "Lng": -73.9767947
   },
   "40": {
     "Store": "GRISTEDES - 533",
@@ -317,7 +395,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10017,
-    "Phone": "(212) 599-4615"
+    "Phone": "(212) 599-4615",
+    "Lat": 40.7486172,
+    "Lng": -73.9727334
   },
   "41": {
     "Store": "ASSOCIATED SUPERMARKET - 788",
@@ -325,7 +405,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10017,
-    "Phone": "(212) 308-6922"
+    "Phone": "(212) 308-6922",
+    "Lat": 40.7537384,
+    "Lng": -73.9689917
   },
   "42": {
     "Store": "BREWTIQUE",
@@ -333,7 +415,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10018,
-    "Phone": "(646) 961-6592"
+    "Phone": "(646) 961-6592",
+    "Lat": 40.7566851,
+    "Lng": -73.9935217
   },
   "43": {
     "Store": "THE WAYLON",
@@ -341,7 +425,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10019,
-    "Phone": "(212) 265-0010"
+    "Phone": "(212) 265-0010",
+    "Lat": 40.7647761,
+    "Lng": -73.99143389999999
   },
   "44": {
     "Store": "GRISTEDES - 34",
@@ -349,7 +435,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10019,
-    "Phone": "(201) 907-2562"
+    "Phone": "(201) 907-2562",
+    "Lat": 40.7647599,
+    "Lng": -73.98469949999999
   },
   "45": {
     "Store": "SPECTRUM CATERING AND CONCESIO",
@@ -357,7 +445,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10019,
-    "Phone": "(917) 692-7888"
+    "Phone": "(917) 692-7888",
+    "Lat": 40.7696942,
+    "Lng": -73.9927226
   },
   "46": {
     "Store": "MORTON WILLIAMS",
@@ -365,7 +455,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10019,
-    "Phone": "(212) 586-7750"
+    "Phone": "(212) 586-7750",
+    "Lat": 40.764753,
+    "Lng": -73.97895
   },
   "47": {
     "Store": "MORTON WILLIAMS - 822",
@@ -373,7 +465,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10019,
-    "Phone": "(212) 586-8784"
+    "Phone": "(212) 586-8784",
+    "Lat": 40.7689517,
+    "Lng": -73.98530319999999
   },
   "48": {
     "Store": "MORTON WILLIAMS",
@@ -381,7 +475,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10021,
-    "Phone": "(212) 249-2851"
+    "Phone": "(212) 249-2851",
+    "Lat": 40.7675786,
+    "Lng": -73.9566376
   },
   "49": {
     "Store": "NICK & TONIS",
@@ -389,7 +485,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10023,
-    "Phone": "(212) 496-4000"
+    "Phone": "(212) 496-4000",
+    "Lat": 40.7743109,
+    "Lng": -73.98157710000001
   },
   "50": {
     "Store": "WEST END SUPRETTE",
@@ -397,7 +495,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10023,
-    "Phone": "(212) 787-1874"
+    "Phone": "(212) 787-1874",
+    "Lat": 40.7799299,
+    "Lng": -73.9841414
   },
   "51": {
     "Store": "GRISTEDES - 511",
@@ -405,7 +505,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10024,
-    "Phone": "(212) 721-3077"
+    "Phone": "(212) 721-3077",
+    "Lat": 40.7855485,
+    "Lng": -73.9732478
   },
   "52": {
     "Store": "GREENLEAF DELI",
@@ -413,7 +515,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10024,
-    "Phone": "(212) 877-7507"
+    "Phone": "(212) 877-7507",
+    "Lat": 40.7870017,
+    "Lng": -73.97581459999999
   },
   "53": {
     "Store": "SPACE 86 CORP",
@@ -421,7 +525,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10024,
-    "Phone": "(212) 787-7025"
+    "Phone": "(212) 787-7025",
+    "Lat": 40.7861064,
+    "Lng": -73.97268059999999
   },
   "54": {
     "Store": "GRISTEDES - 5",
@@ -429,7 +535,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10025,
-    "Phone": "(212) 663-5124"
+    "Phone": "(212) 663-5124",
+    "Lat": 40.7947117,
+    "Lng": -73.97240959999999
   },
   "55": {
     "Store": "RALPH AND NASH DELI",
@@ -437,7 +545,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10026,
-    "Phone": "(212) 666-4508"
+    "Phone": "(212) 666-4508",
+    "Lat": 40.8049662,
+    "Lng": -73.95704959999999
   },
   "56": {
     "Store": "DINOSAUR BBQ",
@@ -445,7 +555,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10027,
-    "Phone": "(212) 694-1777"
+    "Phone": "(212) 694-1777",
+    "Lat": 40.817998,
+    "Lng": -73.960982
   },
   "57": {
     "Store": "ASSOCIATED SUPERMARKET - 731",
@@ -453,7 +565,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10028,
-    "Phone": "(212) 249-2851"
+    "Phone": "(212) 249-2851",
+    "Lat": 40.7739789,
+    "Lng": -73.95190699999999
   },
   "58": {
     "Store": "BIG DADDY",
@@ -461,7 +575,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10028,
-    "Phone": "(212) 717-2020"
+    "Phone": "(212) 717-2020",
+    "Lat": 40.775638,
+    "Lng": -73.953007
   },
   "59": {
     "Store": "CITY SWIGGERS",
@@ -469,7 +585,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10028,
-    "Phone": "(212) 570-2000"
+    "Phone": "(212) 570-2000",
+    "Lat": 40.7772713,
+    "Lng": -73.95096269999999
   },
   "60": {
     "Store": "THE DUCK",
@@ -477,7 +595,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10029,
-    "Phone": "(212) 427-1070"
+    "Phone": "(212) 427-1070",
+    "Lat": 40.7942353,
+    "Lng": -73.9400469
   },
   "61": {
     "Store": "GRISTEDES - 504",
@@ -485,7 +605,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10032,
-    "Phone": "(212) 928-9782"
+    "Phone": "(212) 928-9782",
+    "Lat": 40.8423703,
+    "Lng": -73.93951179999999
   },
   "62": {
     "Store": "SMILE DELI",
@@ -493,7 +615,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10033,
-    "Phone": "(212) 923-8924"
+    "Phone": "(212) 923-8924",
+    "Lat": 40.8506849,
+    "Lng": -73.93800499999999
   },
   "63": {
     "Store": "VIRGILS",
@@ -501,7 +625,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10036,
-    "Phone": "(212) 921-9494"
+    "Phone": "(212) 921-9494",
+    "Lat": 40.7567321,
+    "Lng": -73.9851832
   },
   "64": {
     "Store": "BEER CULTURE",
@@ -509,7 +635,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10036,
-    "Phone": "(646) 590-2139"
+    "Phone": "(646) 590-2139",
+    "Lat": 40.7595332,
+    "Lng": -73.9897052
   },
   "65": {
     "Store": "KEY FOOD STORE - 1982",
@@ -517,7 +645,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10036,
-    "Phone": "(212) 714-1414"
+    "Phone": "(212) 714-1414",
+    "Lat": 40.7597945,
+    "Lng": -73.9944146
   },
   "66": {
     "Store": "GRISTEDES - 611",
@@ -525,7 +655,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10038,
-    "Phone": "(212) 651-8255"
+    "Phone": "(212) 651-8255",
+    "Lat": 40.7068768,
+    "Lng": -74.0075787
   },
   "67": {
     "Store": "STOUT NYC",
@@ -533,7 +665,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10038,
-    "Phone": "(212) 240-9122"
+    "Phone": "(212) 240-9122",
+    "Lat": 40.7079105,
+    "Lng": -74.00648319999999
   },
   "68": {
     "Store": "IRON HORSE",
@@ -541,7 +675,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10038,
-    "Phone": "(646) 448-4471"
+    "Phone": "(646) 448-4471",
+    "Lat": 40.7081033,
+    "Lng": -74.0049296
   },
   "69": {
     "Store": "COWGIRL SEA HORSE",
@@ -549,7 +685,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10038,
-    "Phone": "(212) 608-7873"
+    "Phone": "(212) 608-7873",
+    "Lat": 40.70810180000001,
+    "Lng": -74.0004592
   },
   "70": {
     "Store": "GRISTEDES - 517",
@@ -557,7 +695,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10044,
-    "Phone": "(212) 371-2680"
+    "Phone": "(212) 371-2680",
+    "Lat": 40.7615112,
+    "Lng": -73.94864679999999
   },
   "71": {
     "Store": "HONKY TONK TAVERN R",
@@ -565,7 +705,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10065,
-    "Phone": "(212) 207-8550"
+    "Phone": "(212) 207-8550",
+    "Lat": 40.7622003,
+    "Lng": -73.9597605
   },
   "72": {
     "Store": "GRISTEDES - 413",
@@ -573,7 +715,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10075,
-    "Phone": "(212) 535-8449"
+    "Phone": "(212) 535-8449",
+    "Lat": 40.7732059,
+    "Lng": -73.9577827
   },
   "73": {
     "Store": "TRI TIP GRILL",
@@ -581,7 +725,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10112,
-    "Phone": "(212) 661-1030"
+    "Phone": "(212) 661-1030",
+    "Lat": 40.7589632,
+    "Lng": -73.97933739999999
   },
   "74": {
     "Store": "MORTON WILLIAMS",
@@ -589,7 +735,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 722-0228"
+    "Phone": "(212) 722-0228",
+    "Lat": 40.78160099999999,
+    "Lng": -73.957886
   },
   "75": {
     "Store": "7 ELEVEN - 35670",
@@ -597,7 +745,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 289-2304"
+    "Phone": "(212) 289-2304",
+    "Lat": 40.7778173,
+    "Lng": -73.94901159999999
   },
   "76": {
     "Store": "GRISTEDES - 437",
@@ -605,7 +755,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 369-5668"
+    "Phone": "(212) 369-5668",
+    "Lat": 40.7815416,
+    "Lng": -73.9538132
   },
   "77": {
     "Store": "PIONEER SUPERMARKET",
@@ -613,7 +765,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 828-4499"
+    "Phone": "(212) 828-4499",
+    "Lat": 40.7834253,
+    "Lng": -73.9524713
   },
   "78": {
     "Store": "DT UT CAFE",
@@ -621,7 +775,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 396-9999"
+    "Phone": "(212) 396-9999",
+    "Lat": 40.7807915,
+    "Lng": -73.9492807
   },
   "79": {
     "Store": "BIDDYS PUB",
@@ -629,7 +785,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 534-4785"
+    "Phone": "(212) 534-4785",
+    "Lat": 40.7810144,
+    "Lng": -73.94897809999999
   },
   "80": {
     "Store": "VINUS AND MARC",
@@ -637,7 +795,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(646) 692-9105"
+    "Phone": "(646) 692-9105",
+    "Lat": 40.7834052,
+    "Lng": -73.94805269999999
   },
   "81": {
     "Store": "GRISTEDES - 98",
@@ -645,7 +805,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10128,
-    "Phone": "(212) 348-0890"
+    "Phone": "(212) 348-0890",
+    "Lat": 40.7847497,
+    "Lng": -73.9490603
   },
   "82": {
     "Store": "GRISTEDES - 40",
@@ -653,7 +815,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10280,
-    "Phone": "(212) 233-7797"
+    "Phone": "(212) 233-7797",
+    "Lat": 40.7107184,
+    "Lng": -74.0163936
   },
   "83": {
     "Store": "BLUE SMOKE Y",
@@ -661,7 +825,9 @@ const DATA = {
     "City": "NEW YORK",
     "State": "NY",
     "Zip": 10282,
-    "Phone": "(212) 899-2005"
+    "Phone": "(212) 899-2005",
+    "Lat": 40.7150015,
+    "Lng": -74.01522179999999
   },
   "84": {
     "Store": "ADOBE BLUES RESTAURANT",
@@ -669,7 +835,9 @@ const DATA = {
     "City": "STATEN ISLAND",
     "State": "NY",
     "Zip": 10301,
-    "Phone": "(718) 720-2583"
+    "Phone": "(718) 720-2583",
+    "Lat": 40.6432289,
+    "Lng": -74.09529169999999
   },
   "85": {
     "Store": "KEY FOOD STORE - 1586",
@@ -677,7 +845,9 @@ const DATA = {
     "City": "STATEN ISLAND",
     "State": "NY",
     "Zip": 10305,
-    "Phone": "(718) 273-4000"
+    "Phone": "(718) 273-4000",
+    "Lat": 40.5921665,
+    "Lng": -74.0683438
   },
   "86": {
     "Store": "SUPERFRESH",
@@ -685,7 +855,9 @@ const DATA = {
     "City": "STATEN ISLAND",
     "State": "NY",
     "Zip": 10309,
-    "Phone": "(718) 554-4096"
+    "Phone": "(718) 554-4096",
+    "Lat": 40.5221133,
+    "Lng": -74.21528959999999
   },
   "87": {
     "Store": "NEW YORK BEVERAGE",
@@ -693,7 +865,9 @@ const DATA = {
     "City": "BRONX",
     "State": "NY",
     "Zip": 10455,
-    "Phone": "(718) 401-7700"
+    "Phone": "(718) 401-7700",
+    "Lat": 40.8107127,
+    "Lng": -73.9023765
   },
   "88": {
     "Store": "WALGREENS - 10217",
@@ -701,7 +875,9 @@ const DATA = {
     "City": "BRONX",
     "State": "NY",
     "Zip": 10470,
-    "Phone": "(718) 459-2340"
+    "Phone": "(718) 459-2340",
+    "Lat": 40.8988166,
+    "Lng": -73.8543799
   },
   "89": {
     "Store": "C TOWN SUPERMARKET",
@@ -709,7 +885,9 @@ const DATA = {
     "City": "LONG ISLAND CITY",
     "State": "NY",
     "Zip": 11101,
-    "Phone": "(718) 361-7471"
+    "Phone": "(718) 361-7471",
+    "Lat": 40.7479072,
+    "Lng": -73.9471655
   },
   "90": {
     "Store": "TRADE FAIR - 1",
@@ -717,7 +895,9 @@ const DATA = {
     "City": "ASTORIA",
     "State": "NY",
     "Zip": 11102,
-    "Phone": "(718) 728-9484"
+    "Phone": "(718) 728-9484",
+    "Lat": 40.7669137,
+    "Lng": -73.922033
   },
   "91": {
     "Store": "DOMINIES",
@@ -725,7 +905,9 @@ const DATA = {
     "City": "ASTORIA",
     "State": "NY",
     "Zip": 11103,
-    "Phone": "(917) 353-4050"
+    "Phone": "(917) 353-4050",
+    "Lat": 40.765794,
+    "Lng": -73.9185059
   },
   "92": {
     "Store": "COURTYARD BAR",
@@ -733,7 +915,9 @@ const DATA = {
     "City": "SUNNYSIDE",
     "State": "NY",
     "Zip": 11104,
-    "Phone": "(718) 729-4601"
+    "Phone": "(718) 729-4601",
+    "Lat": 40.7433399,
+    "Lng": -73.9237307
   },
   "93": {
     "Store": "VERDI FRESH",
@@ -741,7 +925,9 @@ const DATA = {
     "City": "ASTORIA",
     "State": "NY",
     "Zip": 11105,
-    "Phone": "(718) 274-7829"
+    "Phone": "(718) 274-7829",
+    "Lat": 40.77768160000001,
+    "Lng": -73.9083735
   },
   "94": {
     "Store": "BREAK BAR & BILLIARDS",
@@ -749,7 +935,9 @@ const DATA = {
     "City": "ASTORIA",
     "State": "NY",
     "Zip": 11106,
-    "Phone": "(718) 777-5400"
+    "Phone": "(718) 777-5400",
+    "Lat": 40.7612947,
+    "Lng": -73.92452519999999
   },
   "95": {
     "Store": "SEKEND SUN",
@@ -757,7 +945,9 @@ const DATA = {
     "City": "ASTORIA",
     "State": "NY",
     "Zip": 11106,
-    "Phone": "(917) 553-6065"
+    "Phone": "(917) 553-6065",
+    "Lat": 40.7615369,
+    "Lng": -73.9240335
   },
   "96": {
     "Store": "GRISTEDES - 544",
@@ -765,7 +955,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11201,
-    "Phone": "(718) 834-8268"
+    "Phone": "(718) 834-8268",
+    "Lat": 40.6975689,
+    "Lng": -73.99265919999999
   },
   "97": {
     "Store": "SUPER FINE",
@@ -773,7 +965,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11201,
-    "Phone": "(718) 243-9005"
+    "Phone": "(718) 243-9005",
+    "Lat": 40.7022371,
+    "Lng": -73.9874147
   },
   "98": {
     "Store": "FLOYD NEW YORK",
@@ -781,7 +975,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11201,
-    "Phone": "(718) 858-5810"
+    "Phone": "(718) 858-5810",
+    "Lat": 40.6908241,
+    "Lng": -73.9957094
   },
   "99": {
     "Store": "HILL COUNTRY BARBEQUE MARKET",
@@ -789,7 +985,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11201,
-    "Phone": "(347) 943-2444"
+    "Phone": "(347) 943-2444",
+    "Lat": 40.69277659999999,
+    "Lng": -73.9884716
   },
   "100": {
     "Store": "BROOKLYN FARE - 1920",
@@ -797,7 +995,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11201,
-    "Phone": "(718) 243-0050"
+    "Phone": "(718) 243-0050",
+    "Lat": 40.6885011,
+    "Lng": -73.9853009
   },
   "101": {
     "Store": "322 DEKALB GROCERY",
@@ -805,7 +1005,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11205,
-    "Phone": "(718) 783-3252"
+    "Phone": "(718) 783-3252",
+    "Lat": 40.6896242,
+    "Lng": -73.9654381
   },
   "102": {
     "Store": "KEYFOOD - 1900",
@@ -813,7 +1015,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11205,
-    "Phone": "(646) 902-5965"
+    "Phone": "(646) 902-5965",
+    "Lat": 40.69333719999999,
+    "Lng": -73.96530539999999
   },
   "103": {
     "Store": "CASTILLO DELI & GROCERY",
@@ -821,7 +1025,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11205,
-    "Phone": "(718) 398-3023"
+    "Phone": "(718) 398-3023",
+    "Lat": 40.6923306,
+    "Lng": -73.95969699999999
   },
   "104": {
     "Store": "C TOWN SUPERMARKET",
@@ -829,7 +1035,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11205,
-    "Phone": "(718) 230-7668"
+    "Phone": "(718) 230-7668",
+    "Lat": 40.6906575,
+    "Lng": -73.9592938
   },
   "105": {
     "Store": "SALIM SMOKE SHOP & LOTTERY CORP",
@@ -837,7 +1045,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11205,
-    "Phone": "(917) 893-8823"
+    "Phone": "(917) 893-8823",
+    "Lat": 40.690531,
+    "Lng": -73.9569982
   },
   "106": {
     "Store": "574 MARCY DELI",
@@ -845,7 +1055,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(929) 210-8686"
+    "Phone": "(929) 210-8686",
+    "Lat": 40.6950617,
+    "Lng": -73.9492852
   },
   "107": {
     "Store": "EL MISTE DELI GROCERY",
@@ -853,7 +1065,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(347) 405-5207"
+    "Phone": "(347) 405-5207",
+    "Lat": 40.69449960000001,
+    "Lng": -73.94925390000002
   },
   "108": {
     "Store": "894 DELI AND GROCERY",
@@ -861,7 +1075,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(347) 715-7040"
+    "Phone": "(347) 715-7040",
+    "Lat": 40.6954991,
+    "Lng": -73.9465238
   },
   "109": {
     "Store": "BROOKLYN FINEST DELI I CORP",
@@ -869,7 +1085,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(718) 574-1815"
+    "Phone": "(718) 574-1815",
+    "Lat": 40.695117,
+    "Lng": -73.9459849
   },
   "110": {
     "Store": "GRAHAM MARKET",
@@ -877,7 +1095,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(917) 765-3875"
+    "Phone": "(917) 765-3875",
+    "Lat": 40.7107858,
+    "Lng": -73.9440516
   },
   "111": {
     "Store": "AZURE GROCERY",
@@ -885,7 +1105,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(718) 599-7887"
+    "Phone": "(718) 599-7887",
+    "Lat": 40.7076415,
+    "Lng": -73.94169649999999
   },
   "112": {
     "Store": "MESSEROLES UNITED DELI GROCERY",
@@ -893,7 +1115,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(718) 366-8957"
+    "Phone": "(718) 366-8957",
+    "Lat": 40.7082722,
+    "Lng": -73.93962020000001
   },
   "113": {
     "Store": "SABBAA GROCERY",
@@ -901,7 +1125,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(718) 456-8191"
+    "Phone": "(718) 456-8191",
+    "Lat": 40.708031,
+    "Lng": -73.9397134
   },
   "114": {
     "Store": "FOOD STORY NATURAL MARKET",
@@ -909,7 +1135,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(718) 381-6800"
+    "Phone": "(718) 381-6800",
+    "Lat": 40.70496199999999,
+    "Lng": -73.9328601
   },
   "115": {
     "Store": "KODA RESTAURANT & LOUNGE",
@@ -917,7 +1145,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11206,
-    "Phone": "(347) 223-4026"
+    "Phone": "(347) 223-4026",
+    "Lat": 40.7031142,
+    "Lng": -73.9333182
   },
   "116": {
     "Store": "THE BROOKLYN MARKET",
@@ -925,7 +1155,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11209,
-    "Phone": "(718) 567-8600"
+    "Phone": "(718) 567-8600",
+    "Lat": 40.6269792,
+    "Lng": -74.0299327
   },
   "117": {
     "Store": "MET FRESH",
@@ -933,7 +1165,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11209,
-    "Phone": "(718) 836-2700"
+    "Phone": "(718) 836-2700",
+    "Lat": 40.6165066,
+    "Lng": -74.0342325
   },
   "118": {
     "Store": "LUCKY DOG",
@@ -941,7 +1175,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(212) 555-1212"
+    "Phone": "(212) 555-1212",
+    "Lat": 40.7135,
+    "Lng": -73.9617179
   },
   "119": {
     "Store": "MRPINA",
@@ -949,7 +1185,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(347) 689-9001"
+    "Phone": "(347) 689-9001",
+    "Lat": 40.70920830000001,
+    "Lng": -73.9587818
   },
   "120": {
     "Store": "ADEN GOURMET DELI",
@@ -957,7 +1195,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 387-8066"
+    "Phone": "(718) 387-8066",
+    "Lat": 40.711324,
+    "Lng": -73.9598513
   },
   "121": {
     "Store": "F & B ORGANIC DELI GROCERY",
@@ -965,7 +1205,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 486-3953"
+    "Phone": "(718) 486-3953",
+    "Lat": 40.7129606,
+    "Lng": -73.9606199
   },
   "122": {
     "Store": "FOOD TOWN - 545",
@@ -973,7 +1215,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 302-5533"
+    "Phone": "(718) 302-5533",
+    "Lat": 40.7154299,
+    "Lng": -73.9594074
   },
   "123": {
     "Store": "SAN LOCO RESTAURANT",
@@ -981,7 +1225,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 218-8479"
+    "Phone": "(718) 218-8479",
+    "Lat": 40.7157326,
+    "Lng": -73.9592234
   },
   "124": {
     "Store": "MARACUJA",
@@ -989,7 +1235,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 218-7398"
+    "Phone": "(718) 218-7398",
+    "Lat": 40.7132427,
+    "Lng": -73.9577647
   },
   "125": {
     "Store": "THE ABBEY",
@@ -997,7 +1245,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 599-4400"
+    "Phone": "(718) 599-4400",
+    "Lat": 40.7174836,
+    "Lng": -73.9562527
   },
   "126": {
     "Store": "ROCKA ROLLA",
@@ -1005,7 +1255,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(845) 558-4318"
+    "Phone": "(845) 558-4318",
+    "Lat": 40.7140844,
+    "Lng": -73.9527544
   },
   "127": {
     "Store": "MACMURRAY",
@@ -1013,7 +1265,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(347) 384-2722"
+    "Phone": "(347) 384-2722",
+    "Lat": 40.7186244,
+    "Lng": -73.9551067
   },
   "128": {
     "Store": "MACRI PARK",
@@ -1021,7 +1275,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 599-4999"
+    "Phone": "(718) 599-4999",
+    "Lat": 40.7142873,
+    "Lng": -73.9516714
   },
   "129": {
     "Store": "HUCKLEBERRY BAR",
@@ -1029,7 +1285,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 218-8555"
+    "Phone": "(718) 218-8555",
+    "Lat": 40.7109259,
+    "Lng": -73.9483056
   },
   "130": {
     "Store": "THE BROOKLYN STAR",
@@ -1037,7 +1295,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(540) 738-0892"
+    "Phone": "(540) 738-0892",
+    "Lat": 40.714614,
+    "Lng": -73.9496944
   },
   "131": {
     "Store": "NORTHERN BELL",
@@ -1045,7 +1305,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 388-9040"
+    "Phone": "(718) 388-9040",
+    "Lat": 40.7139386,
+    "Lng": -73.94858219999999
   },
   "132": {
     "Store": "BASIK G",
@@ -1053,7 +1315,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(917) 553-6065"
+    "Phone": "(917) 553-6065",
+    "Lat": 40.7139617,
+    "Lng": -73.94452969999999
   },
   "133": {
     "Store": "LPN HARMONY",
@@ -1061,7 +1325,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(646) 765-8269"
+    "Phone": "(646) 765-8269",
+    "Lat": 40.7117048,
+    "Lng": -73.945227
   },
   "134": {
     "Store": "4TH DOWN",
@@ -1069,7 +1335,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(646) 235-5357"
+    "Phone": "(646) 235-5357",
+    "Lat": 40.7114759,
+    "Lng": -73.9431199
   },
   "135": {
     "Store": "LATE NIGHT DELI B",
@@ -1077,7 +1345,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11211,
-    "Phone": "(718) 388-3366"
+    "Phone": "(718) 388-3366",
+    "Lat": 40.7147835,
+    "Lng": -73.93888989999999
   },
   "136": {
     "Store": "BENZS FOOD",
@@ -1085,7 +1355,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11213,
-    "Phone": "(718) 778-3329"
+    "Phone": "(718) 778-3329",
+    "Lat": 40.6685404,
+    "Lng": -73.9397335
   },
   "137": {
     "Store": "215 FINE FOOD DELI",
@@ -1093,7 +1365,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 636-1835"
+    "Phone": "(718) 636-1835",
+    "Lat": 40.677162,
+    "Lng": -73.982899
   },
   "138": {
     "Store": "CAROUSEL BEVERAGE",
@@ -1101,7 +1375,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 499-7462"
+    "Phone": "(718) 499-7462",
+    "Lat": 40.6724638,
+    "Lng": -73.990563
   },
   "139": {
     "Store": "BONNIES GRILL",
@@ -1109,7 +1385,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 369-9527"
+    "Phone": "(718) 369-9527",
+    "Lat": 40.6742813,
+    "Lng": -73.98235199999999
   },
   "140": {
     "Store": "4TH AVENUE BEER HOUSE",
@@ -1117,7 +1395,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(347) 641-2844"
+    "Phone": "(347) 641-2844",
+    "Lat": 40.668883,
+    "Lng": -73.98962
   },
   "141": {
     "Store": "KEY FOOD STORE - 890",
@@ -1125,7 +1405,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 768-8317"
+    "Phone": "(718) 768-8317",
+    "Lat": 40.6731255,
+    "Lng": -73.97678499999999
   },
   "142": {
     "Store": "EARTHS BASKETING",
@@ -1133,7 +1415,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 499-9817"
+    "Phone": "(718) 499-9817",
+    "Lat": 40.6647103,
+    "Lng": -73.9931945
   },
   "143": {
     "Store": "ASSOCIATED FRESH MARKET",
@@ -1141,7 +1425,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 499-4249"
+    "Phone": "(718) 499-4249",
+    "Lat": 40.6635977,
+    "Lng": -73.9907533
   },
   "144": {
     "Store": "SOUTH",
@@ -1149,7 +1435,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 832-4720"
+    "Phone": "(718) 832-4720",
+    "Lat": 40.6631772,
+    "Lng": -73.9912604
   },
   "145": {
     "Store": "DOLEHS SUPERMARKET",
@@ -1157,7 +1445,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 499-6913"
+    "Phone": "(718) 499-6913",
+    "Lat": 40.65955779999999,
+    "Lng": -73.98415260000002
   },
   "146": {
     "Store": "DELUXE SNACKS INC",
@@ -1165,7 +1455,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11225,
-    "Phone": "(646) 328-1498"
+    "Phone": "(646) 328-1498",
+    "Lat": 40.6644382,
+    "Lng": -73.9514452
   },
   "147": {
     "Store": "P & E GROCERY",
@@ -1173,7 +1465,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11215,
-    "Phone": "(718) 369-7701"
+    "Phone": "(718) 369-7701",
+    "Lat": 40.659816,
+    "Lng": -73.98118
   },
   "148": {
     "Store": "DO OR DIVE",
@@ -1181,7 +1475,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11216,
-    "Phone": "(646) 388-0441"
+    "Phone": "(646) 388-0441",
+    "Lat": 40.6867587,
+    "Lng": -73.9548362
   },
   "149": {
     "Store": "ZUDY 59",
@@ -1189,7 +1485,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11217,
-    "Phone": "(646) 247-9113"
+    "Phone": "(646) 247-9113",
+    "Lat": 40.6870554,
+    "Lng": -73.9761517
   },
   "150": {
     "Store": "GALA APPLE INTERNATIONAL",
@@ -1197,7 +1495,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11218,
-    "Phone": "(718) 686-7590"
+    "Phone": "(718) 686-7590",
+    "Lat": 40.631986,
+    "Lng": -73.9750627
   },
   "151": {
     "Store": "BRAVO",
@@ -1205,7 +1505,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11221,
-    "Phone": "(718) 443-3700"
+    "Phone": "(718) 443-3700",
+    "Lat": 40.6922241,
+    "Lng": -73.94198209999999
   },
   "152": {
     "Store": "KAY DELI",
@@ -1213,7 +1515,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11221,
-    "Phone": "(718) 453-2640"
+    "Phone": "(718) 453-2640",
+    "Lat": 40.6968504,
+    "Lng": -73.9346942
   },
   "153": {
     "Store": "TRADE WISE",
@@ -1221,7 +1525,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11221,
-    "Phone": "(917) 753-6416"
+    "Phone": "(917) 753-6416",
+    "Lat": 40.6931508,
+    "Lng": -73.9277871
   },
   "154": {
     "Store": "ALONSO GROCERY",
@@ -1229,7 +1535,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11221,
-    "Phone": "(718) 443-9673"
+    "Phone": "(718) 443-9673",
+    "Lat": 40.6886162,
+    "Lng": -73.9160749
   },
   "155": {
     "Store": "ASSOCIATED SUPERMARKET - 5920",
@@ -1237,7 +1545,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11222,
-    "Phone": "(718) 383-7973"
+    "Phone": "(718) 383-7973",
+    "Lat": 40.7280233,
+    "Lng": -73.9529041
   },
   "156": {
     "Store": "FREDDYS MARKET",
@@ -1245,7 +1555,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11222,
-    "Phone": "(718) 302-5208"
+    "Phone": "(718) 302-5208",
+    "Lat": 40.7224535,
+    "Lng": -73.9479606
   },
   "157": {
     "Store": "C TOWN SUPERMARKET",
@@ -1253,7 +1565,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11222,
-    "Phone": "(718) 349-3000"
+    "Phone": "(718) 349-3000",
+    "Lat": 40.7319228,
+    "Lng": -73.9548744
   },
   "158": {
     "Store": "J & J GOURMET & CANDY",
@@ -1261,7 +1575,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11222,
-    "Phone": "(718) 388-7202"
+    "Phone": "(718) 388-7202",
+    "Lat": 40.7322007,
+    "Lng": -73.9548101
   },
   "159": {
     "Store": "RIA BELLA PIZZA",
@@ -1269,7 +1585,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11222,
-    "Phone": "(718) 389-4400"
+    "Phone": "(718) 389-4400",
+    "Lat": 40.7346782,
+    "Lng": -73.9552119
   },
   "160": {
     "Store": "BIG BLUE",
@@ -1277,7 +1595,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11222,
-    "Phone": "(718) 387-4416"
+    "Phone": "(718) 387-4416",
+    "Lat": 40.7308475,
+    "Lng": -73.95036540000001
   },
   "161": {
     "Store": "FLATBUSH BEER",
@@ -1285,7 +1605,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11229,
-    "Phone": "(718) 332-5520"
+    "Phone": "(718) 332-5520",
+    "Lat": 40.6005221,
+    "Lng": -73.9367266
   },
   "162": {
     "Store": "NRT FOOD",
@@ -1293,7 +1615,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11231,
-    "Phone": "(718) 237-4070"
+    "Phone": "(718) 237-4070",
+    "Lat": 40.6869637,
+    "Lng": -73.9996953
   },
   "163": {
     "Store": "APPLE TREE",
@@ -1301,7 +1625,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11231,
-    "Phone": "(718) 624-7581"
+    "Phone": "(718) 624-7581",
+    "Lat": 40.68345679999999,
+    "Lng": -73.9953586
   },
   "164": {
     "Store": "BROOKLYN ICE HOUSE",
@@ -1309,7 +1635,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11231,
-    "Phone": "(917) 279-7089"
+    "Phone": "(917) 279-7089",
+    "Lat": 40.6791664,
+    "Lng": -74.01107329999999
   },
   "165": {
     "Store": "A & L FOOD GROCERY",
@@ -1317,7 +1645,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11233,
-    "Phone": "(718) 443-0521"
+    "Phone": "(718) 443-0521",
+    "Lat": 40.685387,
+    "Lng": -73.9202983
   },
   "166": {
     "Store": "BEER KING",
@@ -1325,7 +1655,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11234,
-    "Phone": "(718) 434-3086"
+    "Phone": "(718) 434-3086",
+    "Lat": 40.6200881,
+    "Lng": -73.927409
   },
   "167": {
     "Store": "HI MANGO NATURAL MARKET",
@@ -1333,7 +1665,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(203) 787-1055"
+    "Phone": "(203) 787-1055",
+    "Lat": 40.7043913,
+    "Lng": -73.93019110000002
   },
   "168": {
     "Store": "KING GOURMET DELI CORP",
@@ -1341,7 +1675,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(718) 821-1122"
+    "Phone": "(718) 821-1122",
+    "Lat": 40.70374,
+    "Lng": -73.9266193
   },
   "169": {
     "Store": "HI MANGO NATURAL MKT",
@@ -1349,7 +1685,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(718) 366-9111"
+    "Phone": "(718) 366-9111",
+    "Lat": 40.70117020000001,
+    "Lng": -73.9219923
   },
   "170": {
     "Store": "ZOON",
@@ -1357,7 +1695,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(718) 453-4632"
+    "Phone": "(718) 453-4632",
+    "Lat": 40.6996183,
+    "Lng": -73.9201388
   },
   "171": {
     "Store": "BOOTLEG BAR",
@@ -1365,7 +1705,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(347) 715-6307"
+    "Phone": "(347) 715-6307",
+    "Lat": 40.6987461,
+    "Lng": -73.9172858
   },
   "172": {
     "Store": "SALLY ROOTS",
@@ -1373,7 +1715,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(347) 425-0888"
+    "Phone": "(347) 425-0888",
+    "Lat": 40.702754,
+    "Lng": -73.9163727
   },
   "173": {
     "Store": "DREAMER TOBACCO SHOP & GROCERY",
@@ -1381,7 +1725,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(470) 819-8723"
+    "Phone": "(470) 819-8723",
+    "Lat": 40.6989965,
+    "Lng": -73.9109076
   },
   "174": {
     "Store": "HEAVY WOODS",
@@ -1389,7 +1735,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(646) 924-8488"
+    "Phone": "(646) 924-8488",
+    "Lat": 40.705535,
+    "Lng": -73.9216859
   },
   "175": {
     "Store": "PIZZA PARTY",
@@ -1397,7 +1745,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(347) 240-9105"
+    "Phone": "(347) 240-9105",
+    "Lat": 40.699801,
+    "Lng": -73.916296
   },
   "176": {
     "Store": "EL CALVARIO DELI GROCERY",
@@ -1405,7 +1755,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11237,
-    "Phone": "(347) 384-1760"
+    "Phone": "(347) 384-1760",
+    "Lat": 40.6997659,
+    "Lng": -73.91524799999999
   },
   "177": {
     "Store": "KEY FOOD STORE - 1262",
@@ -1413,7 +1765,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(718) 789-3007"
+    "Phone": "(718) 789-3007",
+    "Lat": 40.6767178,
+    "Lng": -73.971662
   },
   "178": {
     "Store": "STOP II ORGANIC 7 GROCERY CORP",
@@ -1421,7 +1775,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(718) 230-4200"
+    "Phone": "(718) 230-4200",
+    "Lat": 40.6800241,
+    "Lng": -73.9677492
   },
   "179": {
     "Store": "MET FOODS",
@@ -1429,7 +1785,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(718) 636-1620"
+    "Phone": "(718) 636-1620",
+    "Lat": 40.6829006,
+    "Lng": -73.9632436
   },
   "180": {
     "Store": "CHILOS",
@@ -1437,7 +1795,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(718) 676-5245"
+    "Phone": "(718) 676-5245",
+    "Lat": 40.6883633,
+    "Lng": -73.95690119999999
   },
   "181": {
     "Store": "FOOD CENTER GROCERY",
@@ -1445,7 +1805,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(718) 636-4495"
+    "Phone": "(718) 636-4495",
+    "Lat": 40.6867547,
+    "Lng": -73.95703340000001
   },
   "182": {
     "Store": "DORIS",
@@ -1453,7 +1815,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(347) 240-3350"
+    "Phone": "(347) 240-3350",
+    "Lat": 40.68122090000001,
+    "Lng": -73.9573954
   },
   "183": {
     "Store": "NSA SUPERMARKETS",
@@ -1461,7 +1825,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11238,
-    "Phone": "(718) 638-7500"
+    "Phone": "(718) 638-7500",
+    "Lat": 40.6762153,
+    "Lng": -73.9637977
   },
   "184": {
     "Store": "EAST RIVER",
@@ -1469,7 +1835,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11249,
-    "Phone": "(718) 302-0511"
+    "Phone": "(718) 302-0511",
+    "Lat": 40.7109477,
+    "Lng": -73.96464999999999
   },
   "185": {
     "Store": "LEVEE",
@@ -1477,7 +1845,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11249,
-    "Phone": "(718) 218-8787"
+    "Phone": "(718) 218-8787",
+    "Lat": 40.7163006,
+    "Lng": -73.9616849
   },
   "186": {
     "Store": "GEORGE AND JACKS",
@@ -1485,7 +1855,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11249,
-    "Phone": "(845) 661-5069"
+    "Phone": "(845) 661-5069",
+    "Lat": 40.7189991,
+    "Lng": -73.9583349
   },
   "187": {
     "Store": "MABLES SMOKEHOUSE AND BANQUET HALL",
@@ -1493,7 +1865,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11249,
-    "Phone": "(718) 218-6655"
+    "Phone": "(718) 218-6655",
+    "Lat": 40.7213239,
+    "Lng": -73.9566384
   },
   "188": {
     "Store": "SKINNY DENNIS",
@@ -1501,7 +1875,9 @@ const DATA = {
     "City": "BROOKLYN",
     "State": "NY",
     "Zip": 11249,
-    "Phone": "(347) 529-6647"
+    "Phone": "(347) 529-6647",
+    "Lat": 40.7158685,
+    "Lng": -73.9621765
   },
   "189": {
     "Store": "BEVERAGE DEPOT",
@@ -1509,7 +1885,9 @@ const DATA = {
     "City": "FLUSHING",
     "State": "NY",
     "Zip": 11358,
-    "Phone": "(718) 539-4500"
+    "Phone": "(718) 539-4500",
+    "Lat": 40.759964,
+    "Lng": -73.79998760000001
   },
   "190": {
     "Store": "B & B BEVERAGE",
@@ -1517,7 +1895,9 @@ const DATA = {
     "City": "BAYSIDE",
     "State": "NY",
     "Zip": 11361,
-    "Phone": "(718) 281-1222"
+    "Phone": "(718) 281-1222",
+    "Lat": 40.7633155,
+    "Lng": -73.7727626
   },
   "191": {
     "Store": "KISSENA BEVERAGE",
@@ -1525,7 +1905,9 @@ const DATA = {
     "City": "FLUSHING",
     "State": "NY",
     "Zip": 11367,
-    "Phone": "(718) 969-0013"
+    "Phone": "(718) 969-0013",
+    "Lat": 40.7273863,
+    "Lng": -73.8115181
   },
   "192": {
     "Store": "ASSOCIATED SUPERMARKET",
@@ -1533,7 +1915,9 @@ const DATA = {
     "City": "RIDGEWOOD",
     "State": "NY",
     "Zip": 11385,
-    "Phone": "(718) 418-4885"
+    "Phone": "(718) 418-4885",
+    "Lat": 40.7062359,
+    "Lng": -73.897144
   },
   "193": {
     "Store": "BUFFALO WILD WINGS GRILL & BAR",
@@ -1541,46 +1925,8 @@ const DATA = {
     "City": "JAMAICA",
     "State": "NY",
     "Zip": 11432,
-    "Phone": "(718) 751-4800"
+    "Phone": "(718) 751-4800",
+    "Lat": 40.6436309,
+    "Lng": -73.7821084
   }
 }
-
-var https = require('https');
-var fs = require('fs');
-
-// function to request and return lat and lng obj from an address obj
-function getLatLng(key) {
-  return new Promise(function(resolve, reject) {
-    var address = DATA[key].Street.split(' ').join('+')+",+"+DATA[key].City.split(' ').join('+')+",+NY";
-    var url = "https://maps.googleapis.com/maps/api/geocode/json?address="+address+"&key=AIzaSyCeALJL3LQ58U97ktV4f_cozkUCisYRBHo"
-
-    https.get(url, function(res) {
-      var body = '';
-
-      res.on('data', function(data){
-        body += data;
-      })
-      res.on('end', function() {
-        var parsed = JSON.parse(body);
-        if (parsed.results.length == 0) {
-          console.log(key + " this had none")
-          console.log(address)
-        }
-        var latlng = parsed.results[0].geometry.location;
-        DATA[key].Lat = latlng.lat;
-        DATA[key].Lng = latlng.lng;
-        resolve();
-      });
-    })
-  });
-}
-
-var promisesPromises = [];
-
-for ( var key in DATA) {
-  promisesPromises.push(getLatLng(key));
-}
-
-Promise.all(promisesPromises).then(function() {
-  fs.writeFile('./newdata.js', JSON.stringify(DATA));
-})
