@@ -1,10 +1,12 @@
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
     center: {
-      lat: 40.7245,
-      lng: -73.9419
+      lat: 40.7214081,
+      lng: -73.9620691
     },
-    zoom: 12,
+    zoom: 13,
+    mapTypeControl: false,
+    streetViewControl: false,
     styles: [{
         "featureType": "all",
         "elementType": "labels.text.fill",
@@ -260,4 +262,28 @@ function initMap() {
       }
     ]
   });
+
+  var infowindow = new google.maps.InfoWindow({
+    maxWidth: 300
+  });
+
+  var markers = [];
+  var dataKeys = Object.keys(DATA);
+
+  for (var i = 0; i < dataKeys.length; i++) {
+    var marker = new google.maps.Marker({
+      position: new google.maps.LatLng(DATA[dataKeys[i]].Lat, DATA[dataKeys[i]].Lng),
+      map: map
+    });
+
+    markers.push(marker);
+
+    google.maps.event.addListener(marker, 'click', (function(marker, i) {
+      return function() {
+        infowindow.setContent(DATA[dataKeys[i]].Store);
+        infowindow.open(map, marker);
+      }
+    })(marker, i));
+  }
+
 }
