@@ -1,12 +1,17 @@
+// Creates all map content including markers and info windows
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
+    // center roughly over Greenpoint, BK
     center: {
       lat: 40.7214081,
       lng: -73.9620691
     },
+    // Adjust how much of city you want to see initially
     zoom: 13,
+    // Removing unsused controls
     mapTypeControl: false,
     streetViewControl: false,
+    // All map coloring
     styles: [{
         "featureType": "all",
         "elementType": "labels.text.fill",
@@ -262,30 +267,31 @@ function initMap() {
       }
     ]
   });
-
+  // Creates marker infowindow object and sets width
+  // Content set later inside callback for click listener
   var infowindow = new google.maps.InfoWindow({
     maxWidth: 300
   });
-
-  var markers = [];
-  var dataKeys = Object.keys(DATA);
-
+  // Setting custom marker image
   var image = {
     url: './assets/lone-star-logo.png',
     scaledSize: new google.maps.Size(40, 40)
   };
-
-  console.log(image)
-
+  // markers array must be created
+  var markers = [];
+  // Grabbing unique key for each DATA object and putting in array
+  var dataKeys = Object.keys(DATA);
+  // For each DATA object we just got keys for, create a marker and set position
   for (var i = 0; i < dataKeys.length; i++) {
     var marker = new google.maps.Marker({
       position: new google.maps.LatLng(DATA[dataKeys[i]].Lat, DATA[dataKeys[i]].Lng),
       map: map,
       icon: image
     });
-
+    // Push marker to markers array
     markers.push(marker);
-
+    // Creates click even to open infowindow for markers
+    // Content of infoWindow set inside callback
     google.maps.event.addListener(marker, 'click', (function(marker, i) {
       return function() {
         infowindow.setContent(DATA[dataKeys[i]].Store);
