@@ -8,6 +8,41 @@ html, body {
   width: 100vw;
 }
 
+h1 {
+  font-size: 2rem;
+  margin-bottom: .5em;
+  color: #D12331;
+}
+
+p {
+  font-size: 1.1rem;
+  margin-bottom: .6em;
+}
+
 #map {
   height: 100%;
+}
+
+#about {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  height: 600px;
+  width: 300px;
+  overflow: hidden;
+}
+
+#about .header, #about .content {
+  width: 300px;
+  padding: 20px;
+}
+
+#about .header {
+  height: 50px;
+  background-color: #D12331;
+}
+
+#about .content {
+  height: 550px;
+  background-color: white;
 }

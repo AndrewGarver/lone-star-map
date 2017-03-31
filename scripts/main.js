@@ -299,5 +299,5 @@ function initMap() {
       }
     })(marker, i));
   }
-
+// End of initMap
 }
