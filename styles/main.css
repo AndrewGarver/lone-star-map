@@ -9,6 +9,10 @@ html, body {
   width: 100vw;
 }
 
+#map {
+  height: 100%;
+}
+
 h1 {
   font-size: 2rem;
   margin-bottom: 1em;
@@ -25,29 +29,36 @@ a {
   color: #D12331;
 }
 
-#map {
-  height: 100%;
-}
-
-#about {
+.about {
   position: absolute;
   top: 40px;
   right: 40px;
   height: 600px;
   width: 300px;
   overflow: hidden;
+  transition: height .25s linear,
+    width .25s linear;
 }
 
-#about .header, #about .content {
+.about--closed {
+  height: 50px;
+  width: 50px;
+}
+
+.about__header, .about__content {
   width: 300px;
 }
 
-#about .header {
+.about__header {
   height: 50px;
   background-color: #D12331;
 }
 
-#about .content {
+.about__header:hover {
+  background-color: #e9636e;
+}
+
+.about__content {
   height: 550px;
   padding: 30px 25px;
   background-color: white;

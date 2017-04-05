@@ -294,10 +294,27 @@ function initMap() {
     // Content of infoWindow set inside callback
     google.maps.event.addListener(marker, 'click', (function(marker, i) {
       return function() {
-        infowindow.setContent(DATA[dataKeys[i]].Store);
+        var store = DATA[dataKeys[i]].Store;
+        var street = DATA[dataKeys[i]].Street;
+        var city = DATA[dataKeys[i]].City;
+        var zip = DATA[dataKeys[i]].Zip;
+        var phone = DATA[dataKeys[i]].Phone;
+        var phoneFormatted = "+1"+DATA[dataKeys[i]].Phone.replace(/([ ,(,),-])+/g, "")
+
+        infowindow.setContent(store+"<br><br>"+street+"<br>"+city+", NY, "+zip+"<br><br>"+"<a href='tel:"+phoneFormatted+"'>"+phone+"</a>");
         infowindow.open(map, marker);
       }
     })(marker, i));
   }
 // End of initMap
 }
+
+// For opening the about menu
+// grab the header
+var header = document.querySelector('.about__header');
+// function for toggling closed class
+function toggleMenu(e) {
+  e.target.parentNode.classList.toggle('about--closed')
+}
+// adding handler to header
+header.addEventListener('click', toggleMenu);
