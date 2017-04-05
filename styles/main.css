@@ -2,6 +2,18 @@
   box-sizing: border-box;
 }
 
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 html, body {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
@@ -56,6 +68,17 @@ a {
 
 .about__header:hover {
   background-color: #e9636e;
+}
+
+.about__header__icon {
+  pointer-events: none;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  color: white;
+  font-size: 1.5rem;
 }
 
 .about__content {

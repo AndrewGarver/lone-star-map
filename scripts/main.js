@@ -314,7 +314,17 @@ function initMap() {
 var header = document.querySelector('.about__header');
 // function for toggling closed class
 function toggleMenu(e) {
-  e.target.parentNode.classList.toggle('about--closed')
+  // get current icon
+  var iconNode = e.target.getElementsByClassName('about__header__icon')[0];
+  // set new icon
+  if (iconNode.textContent === "+") {
+    iconNode.textContent = "\u2014";
+  }
+  else if (iconNode.textContent === "\u2014") {
+    iconNode.textContent = "+"
+  }
+  // toggle open or closed
+  e.target.parentNode.classList.toggle('about--closed');
 }
 // adding handler to header
 header.addEventListener('click', toggleMenu);
