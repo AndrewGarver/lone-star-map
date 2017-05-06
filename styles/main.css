@@ -82,6 +82,7 @@ a {
 }
 
 .about__content {
+  float: right;
   height: 550px;
   padding: 30px 25px;
   background-color: white;
